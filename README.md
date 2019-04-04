@@ -5,4 +5,4 @@ Change nifi url in script, and if you want set username in script.
 Make sure jsonformat.py is also in same node.
 run as
 
-./run_curl.sh nifi-api/process-groups/root/process-groups?recursive=true pg_list
+`./run_curl.sh nifi-api/process-groups/root/process-groups?recursive=true pg_list`
